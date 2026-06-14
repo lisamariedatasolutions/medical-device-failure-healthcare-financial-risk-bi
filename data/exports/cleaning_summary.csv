@@ -1,0 +1,16 @@
+Metric,Value
+Device Raw Rows,4149
+Device Cleaned Rows,4149
+Device Raw Columns,13
+Device Cleaned Columns,28
+Device Duplicate Rows After Cleaning,0
+Device Missing Values After Cleaning,0
+Negative Maintenance Costs Corrected,105
+Device Age Records Flagged for Review,0
+Financial Raw Rows,500
+Financial Cleaned Rows,500
+Financial Raw Columns,4
+Financial Cleaned Columns,10
+Financial Duplicate Rows After Cleaning,0
+Financial Missing Values After Cleaning,0
+Financial Expense Categories Corrected,350

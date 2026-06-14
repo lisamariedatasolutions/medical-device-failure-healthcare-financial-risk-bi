@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment files
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary Office files
+~$*.xlsx
+~$*.pptx
+~$*.docx
+
+# Power BI temporary files
+*.tmp

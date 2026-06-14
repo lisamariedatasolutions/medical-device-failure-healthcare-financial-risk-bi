@@ -1,0 +1,5 @@
+Category_Field,Unique_Values,Unique_Count
+maintenance_severity,"['High', 'Low', 'Medium']",3
+failure_status,"['Failure Reported', 'No Failure Reported']",2
+operational_risk_level,"['High', 'Low', 'Medium']",3
+replacement_review_flag,"['Monitor', 'Review for Replacement']",2

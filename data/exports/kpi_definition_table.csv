@@ -1,0 +1,11 @@
+KPI_Name,Category,Formula,Business_Meaning,Primary_Stakeholder
+Total Devices,Operational,Count distinct device_id,Shows the total number of medical devices included in the analysis,Operations / Biomedical Engineering
+Total Failure Events,Operational,Sum of failure_event_count,Shows the total recorded device failure burden,Operations / Biomedical Engineering
+Devices with Failure Reported,Operational,Sum of failure_flag,Shows how many devices had at least one reported failure,Operations / Risk
+Average Downtime Hours,Operational,Average of downtime_hours,Shows the average amount of time devices were unavailable,Operations / Department Leadership
+Total Maintenance Cost,Financial,Sum of maintenance_cost,Shows the total cost burden of device maintenance,Finance / Operations
+Average Maintenance Cost,Financial,Average of maintenance_cost,Shows the typical maintenance cost per device record,Finance / Biomedical Engineering
+High-Risk Devices,Risk,Count where operational_risk_level = High,Shows how many devices meet high operational risk criteria,Risk / Operations
+Devices for Replacement Review,Risk,Count where replacement_review_flag = Review for Replacement,Shows how many devices may need replacement evaluation,Operations / Finance
+Total Financial Expenses,Financial,Sum of amount,Shows total healthcare expenses from the financial support dataset,Finance
+Top Expense Category,Financial,Corrected expense category with highest total amount,Shows the largest spending category after category correction,Finance / Leadership

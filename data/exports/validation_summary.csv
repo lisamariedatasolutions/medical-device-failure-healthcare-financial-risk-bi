@@ -1,0 +1,19 @@
+Validation_Check,Issue_Count,Status
+Device row count preserved,0,Pass
+Financial row count preserved,0,Pass
+Device missing values,0,Pass
+Financial missing values,0,Pass
+Device duplicate rows,0,Pass
+Financial duplicate rows,0,Pass
+Required device columns present,0,Pass
+Required financial columns present,0,Pass
+Device dates valid,0,Pass
+Financial dates valid,0,Pass
+No negative maintenance costs after cleaning,0,Pass
+No negative downtime values,0,Pass
+No negative financial amounts,0,Pass
+Negative maintenance cost flags correct,0,Pass
+Device age validation passed,0,Pass
+Financial category correction logic passed,0,Pass
+Risk level logic passed,0,Pass
+Risk score range valid,0,Pass
