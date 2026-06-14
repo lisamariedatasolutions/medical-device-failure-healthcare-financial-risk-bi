@@ -145,21 +145,59 @@ The Power BI dashboard includes four pages:
 ## Dashboard Screenshots
 
 ### Executive Overview
-
-![Executive Overview](../images/powerbi_executive_overview.png)
+![Executive Overview](images/powerbi_executive_overview.png)
 
 ### Device Risk Analysis
-
-![Device Risk Analysis](../images/powerbi_device_risk_analysis.png)
+![Device Risk Analysis](images/powerbi_device_risk_analysis.png)
 
 ### Financial Impact Analysis
-
-![Financial Impact Analysis](../images/powerbi_financial_impact_analysis.png)
+![Financial Impact Analysis](images/powerbi_financial_impact_analysis.png)
 
 ### Data Quality & Validation
+![Data Quality Validation](images/powerbi_data_quality_validation.png)
 
-![Data Quality Validation](../images/powerbi_data_quality_validation.png)
+## Excel Workbook Screenshots
 
+### Excel Executive Summary
+![Excel Executive Summary](images/excel_executive_summary.png)
+
+### Excel Device Risk Analysis
+![Excel Device Risk Analysis](images/excel_device_risk_analysis.png)
+
+### Excel Financial Analysis
+![Excel Financial Analysis](images/excel_financial_analysis.png)
+
+## Python EDA Screenshots
+
+### KPI Definition
+![KPI Definition](images/python_eda_kpi_definition.png)
+
+### EDA Summary
+![EDA Summary](images/python_eda_summary%20(2).png)
+
+### Failure Type Summary
+![Failure Type Summary](images/python_eda_failure_type_summary.png)
+
+### Manufacturer Summary
+![Manufacturer Summary](images/python_eda_manufacturer_summary.png)
+
+### Risk Summary
+![Risk Summary](images/python_eda_risk_summary_chart.png)
+
+### Replacement Summary
+![Replacement Summary](images/python_eda_replacement_summary.png)
+
+### Financial Category Summary
+![Financial Category Summary](images/python_eda_financial_category_summary_chart.png)
+
+### Monthly Financial Expense Trend
+![Monthly Financial Expense Trend](images/python_eda_monthly_financial_expense_trend.png)
+
+### Total Cost by Manufacturer
+![Total Cost by Manufacturer](images/python_total_cost_manufacturer.png)
+
+### Total Failure Events by Device Type
+![Total Failure Events by Device Type](images/python_total_failure_device_type.png)
 ## Key Findings
 
 * Defibrillators, Infusion Pumps, and X-Ray Machines showed the highest total failure events.
